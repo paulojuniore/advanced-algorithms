@@ -1,4 +1,4 @@
-<h3>Algoritmos Avançados 2018.1 - Ciência da Computação - UFCG</h3>
+<h2>Algoritmos Avançados 2018.1 - Ciência da Computação - UFCG</h2>
 
 As listas abrangem os seguintes contéudos gerais:
 
