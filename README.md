@@ -9,5 +9,6 @@ As listas abrangem os seguintes contéudos gerais:
   <li>Matemática (Primos, Crivo de Eratóstenes, Euclides, Fatores Primos)</li>
   <li>Análise Combinatória (Combinações, Arranjos e Permutações)</li>
   <li>Grafos I (DFS, BFS, Árvores)</li>
+  <li>Grafos II (Djikstra, Kruskal)</li>
 </ol>
   
